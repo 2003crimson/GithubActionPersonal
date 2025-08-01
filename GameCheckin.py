@@ -235,9 +235,7 @@ def checkin_game(game_name, game_module, game_print_name=""):
 
 def run_task():
     games = [
-        ("崩坏学园2", "honkai2", Honkai2),
-        ("崩坏3rd", "honkai3rd", Honkai3rd),
-        ("未定事件簿", "tears_of_themis", TearsOfThemis),
+        # ("崩坏3rd", "honkai3rd", Honkai3rd),
         ("原神", "genshin", Genshin),
         ("崩坏：星穹铁道", "honkai_sr", Honkaisr),
         ("绝区零", "zzz", ZZZ)
